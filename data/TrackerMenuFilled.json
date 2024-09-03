@@ -1,0 +1,53 @@
+[
+  {"listOfLog": [
+    {
+      "mealList": [
+        {
+          "sodium": 25,
+          "protein": 15,
+          "calories": 750,
+          "mealName": "Poutine",
+          "sugar": 2
+        },
+        {
+          "sodium": 1,
+          "protein": 13,
+          "calories": 750,
+          "mealName": "Salad",
+          "sugar": 16
+        }
+      ],
+      "total": {
+        "sodium": 26,
+        "protein": 28,
+        "calories": 1500,
+        "mealName": "Total",
+        "sugar": 18
+      },
+      "day": 1
+    },
+    {
+      "mealList": [{
+        "sodium": 15,
+        "protein": 13,
+        "calories": 800,
+        "mealName": "Spaghetti",
+        "sugar": 15
+      }],
+      "total": {
+        "sodium": 15,
+        "protein": 13,
+        "calories": 800,
+        "mealName": "Total",
+        "sugar": 15
+      },
+      "day": 2
+    }
+  ]},
+  {
+    "calorieGoal": 2500,
+    "sodiumGoal": 50,
+    "sugarGoal": 50,
+    "proteinGoal": 120
+  }
+]

@@ -1,0 +1,34 @@
+[
+    {"listOfLog": [{
+        "mealList": [
+            {
+                "sodium": 120,
+                "protein": 16,
+                "calories": 1300,
+                "mealName": "Spaghetti",
+                "sugar": 15
+            },
+            {
+                "sodium": 64,
+                "protein": 15,
+                "calories": 789,
+                "mealName": "Cheese steak",
+                "sugar": 45
+            }
+        ],
+        "total": {
+            "sodium": 184,
+            "protein": 31,
+            "calories": 2089,
+            "mealName": "Total",
+            "sugar": 60
+        },
+        "day": 1
+    }]},
+    {
+        "calorieGoal": 2500,
+        "sodiumGoal": 5000,
+        "sugarGoal": 50,
+        "proteinGoal": 120
+    }
+]
